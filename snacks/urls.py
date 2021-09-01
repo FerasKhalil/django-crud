@@ -14,3 +14,5 @@ urlpatterns=[
     path("<int:pk>/delete/", SnackDeleteView.as_view(), name="snack_delete"),
 
 ]
+
+# s
